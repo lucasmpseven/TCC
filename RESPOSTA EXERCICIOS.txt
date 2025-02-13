@@ -1,0 +1,112 @@
+1. Definição e História da Internet:
+• Explique o que é a Internet e descreva brevemente sua origem e evolução até os dias atuais.
+R:	A Internet é uma rede global que conecta milhões de redes e dispositivos ao redor
+do mundo, permitindo a comunicação e o compartilhamento de informações entre
+usuários e sistemas. Ela surgiu a partir de projetos militares e acadêmicos nos anos
+1960 e evoluiu para se tornar uma parte essencial da sociedade moderna.
+	A internet nasceu de um projeto militar nos EUA durante a Guerra Fria (ARPANET). Nos 
+anos 70, o protocolo TCP/IP permitiu a conexão entre diferentes redes. Nos anos 90, a World
+Wide Web (WWW) popularizou a internet, tornando-a acessível a todos. Hoje, a internet é
+essencial em nossas vidas, e seu futuro promete ainda mais inovações.
+
+
+2. Identificação de Componentes de Rede:
+• Liste e descreva as funções de pelo menos três dispositivos intermediários em uma rede de
+computadores. Crie um diagrama de rede caseira (computador → roteador → modem →
+provedor), identifique os componentes.
+R:	Roteador: O "guia" da internet, direciona os dados para o destino certo, como um GPS.
+Switch: O "organizador" da rede local, conecta os aparelhos e envia dados diretamente, sem 
+bagunça. Ponto de acesso: O "wi-fi", cria uma rede sem fio para conectar celulares, notebooks, etc.
+	Componentes:
+Provedor: Quem te dá internet (Tim, Claro, etc.).
+Modem: Transforma o sinal da internet para o roteador entender.
+Roteador: Distribui internet para seus aparelhos (PC, celular, etc.).
+Computador: Seu PC, onde você usa a internet.
+(DIAGRAMA)
+  			Provedor (Tim, Claro, sei lá)
+                                       |
+                                   Modem (caixinha)
+                                       |
+                                   Roteador (outra caixinha)
+                                       |
+                                   Computador (PC)
+
+
+
+
+3. Comparação de Meios de Transmissão:
+• Compare as características do cabo de par trançado UTP e da fibra óptica, destacando
+vantagens e desvantagens de cada um.
+R: Componentes da Rede – Meios de Transmissão
+	Cabo de Par Trançado (UTP/STP): Composto por pares de fios trançados que
+reduzem interferências eletromagnéticas. O UTP (Unshielded Twisted Pair) não
+possui blindagem, enquanto o STP (Shielded Twisted Pair) possui uma camada de
+blindagem para proteção adicional.
+	Fibra Óptica: Utiliza filamentos de vidro ou plástico para transmitir dados na
+forma de luz, oferecendo altas velocidades e imunidade a interferências
+eletromagnéticas.
+
+
+
+4. Comparação:
+• Qual a diferença entre um roteador e um switch?
+R: Roteadores: Encaminham pacotes de dados entre redes diferentes, determinando o
+melhor caminho para o destino (ex: da sua casa para o servidor doYouTube).
+   Switches: Conectam dispositivos dentro de uma mesma rede local (LAN), encaminhando
+dados para o dispositivo específico de destino.
+• Por que o DNS é essencial para o funcionamento da Internet?
+R: Protocolos: Regras padronizadas para comunicação, como TCP/IP, HTTP, DNS.
+   DNS:Traduz nomes de domínio (ex: google.com) para endereços IP.
+   Componentes da Rede – Software de Rede
+
+
+5. Caso Prático:
+• Desenhe uma rede de uma pequena empresa com 10 computadores, um servidor e
+acesso à Internet. Rotule os componentes.
+R:
+	IMAGEM
+
+6. Comparação de Meios de Transmissão:
+• Compare as características do cabo de par trançado UTP e da fibra óptica, destacando
+vantagens e desvantagens de cada um.
+R: Componentes da Rede – Meios de Transmissão
+	Cabo de Par Trançado (UTP/STP): Composto por pares de fios trançados que
+reduzem interferências eletromagnéticas. O UTP (Unshielded Twisted Pair) não
+possui blindagem, enquanto o STP (Shielded Twisted Pair) possui uma camada de
+blindagem para proteção adicional.
+	Fibra Óptica: Utiliza filamentos de vidro ou plástico para transmitir dados na
+forma de luz, oferecendo altas velocidades e imunidade a interferências
+eletromagnéticas.
+
+
+7. Análise de Cenário:
+• Considere uma pequena empresa que utiliza um hub para conectar seus computadores.
+Explique os possíveis problemas de desempenho que podem ocorrer e sugira uma solução
+para melhorar a eficiência da rede.
+R:	Em redes com muitos computadores, o hub pode causar lentidão e colisões de dados,
+pois envia todas as informações para todos os dispositivos conectados. A solução é 
+substituir o hub por um switch, que aprende os endereços de cada aparelho e envia os 
+dados diretamente para o destino, evitando colisões e otimizando a largura de banda.
+
+
+8. Pesquisa sobre Protocolos:
+• Pesquise e explique a função do protocolo TCP/IP na comunicação de redes e por que ele é
+fundamental para o funcionamento da Internet.
+R: 	O protocolo TCP/IP é um conjunto de regras que permite a comunicação entre dispositivos 
+em redes, como a internet. Ele funciona dividindo os dados em pacotes, endereçando-os com endereços IP,
+garantindo a entrega confiável e reconstruindo os dados no destino. O TCP/IP é fundamental para a 
+internet, pois permite a interoperabilidade, escalabilidade, confiabilidade e flexibilidade da comunicação de dados.
+	Imagine o TCP/IP como um sistema postal para a internet. Ele pega sua mensagem (dados), divide em cartas
+menores (pacotes), coloca um endereço (endereço IP) e garante que cheguem ao destino na ordem correta. Sem esse 
+sistema, a internet não funcionaria.
+
+
+9. Estudo de Caso:
+• Analise um caso real ou hipotético onde a escolha inadequada de componentes de rede
+resultou em problemas de conectividade ou desempenho. Proponha soluções para resolver
+esses problemas.
+R:	Em redes com muitos computadores, o hub pode causar lentidão e colisões de dados, pois envia todas as 
+informações para todos os dispositivos conectados. A solução é substituir o hub por um switch, que aprende os 
+endereços de cada aparelho e envia os dados diretamente para o destino, evitando colisões e otimizando a largura de banda.
+
+
